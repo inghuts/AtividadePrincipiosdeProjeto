@@ -1,0 +1,5 @@
+com\principios\principiodasegregacaodeinterfaces\Principal.class
+com\principios\principiodasegregacaodeinterfaces\CadastroCliente.class
+com\principios\principiodasegregacaodeinterfaces\ICadastroCliente.class
+com\principios\principiodasegregacaodeinterfaces\ICadastroProduto.class
+com\principios\principiodasegregacaodeinterfaces\CadastroProduto.class
